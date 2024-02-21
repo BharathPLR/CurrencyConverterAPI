@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CurrencyConverterAPI/bin/Debug/net7.0
+/CurrencyConverterAPI/.vs/CurrencyConverterAPI/config
+/CurrencyConverterAPI/.vs/CurrencyConverterAPI/DesignTimeBuild
+/CurrencyConverterAPI/.vs/CurrencyConverterAPI/FileContentIndex
+/CurrencyConverterAPI/.vs/CurrencyConverterAPI/v17/TestStore/0
+/CurrencyConverterAPI/.vs/ProjectEvaluation
+/CurrencyConverterAPI/.vs/CurrencyConverterAPI/v17
+/CurrencyConverterAPI/obj
+/CurrencyConverterAPITest/bin/Debug/net7.0
+/CurrencyConverterAPITest/obj
